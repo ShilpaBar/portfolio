@@ -34,7 +34,7 @@ export default function Skills() {
       icon: '🧪',
       iconClass: 'purple',
       title: 'Testing & Methodologies',
-      skills: ['Flutter Test', 'Unit Testing', 'Widget Testing', 'Agile/Scrum', 'UI/UX Collaboration', 'Performance Optimization'],
+      skills: ['Flutter Test', 'Unit Testing', 'Widget Testing'],
     },
   ];
 

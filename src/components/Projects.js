@@ -1,16 +1,17 @@
 export default function Projects() {
   const projects = [
     {
-      icon: '📋',
-      title: 'TaskFlow Pro',
-      subtitle: 'Agile Task Management App',
-      description: 'A responsive, cross-platform Agile Kanban board targeting iOS, Android, and Web using Flutter and Dart.',
+      icon: '🌤️',
+      title: 'Weather App',
+      subtitle: 'Real-Time Weather by City',
+      description: 'A cross-platform mobile application that fetches real-time weather data using a third-party API and displays forecasts by city name.',
       features: [
-        'Clean architecture with robust state management',
-        'RESTful APIs + Firebase Auth & Cloud Firestore',
-        'Agile sprints with Git branching & feature tracking',
+        'Search weather by city name with instant results',
+        'Third-party weather API integration for live data',
+        'Dynamic UI updates based on weather conditions',
+        'Clean, intuitive, and responsive interface',
       ],
-      tags: ['Flutter', 'Dart', 'Firebase', 'REST API', 'Clean Architecture'],
+      tags: ['Flutter', 'Dart', 'REST API', 'JSON', 'Responsive UI'],
       tagClass: 'tag-cyan',
       github: null,
       status: null,
@@ -29,22 +30,6 @@ export default function Projects() {
       tags: ['Flutter', 'Google Maps', 'Firebase', 'GetX'],
       tagClass: 'tag-purple',
       github: 'https://github.com/ShilpaBar',
-      status: null,
-    },
-    {
-      icon: '🌤️',
-      title: 'Weather App',
-      subtitle: 'Real-Time Weather Forecasts',
-      description: 'Cross-platform mobile application providing accurate real-time weather forecasts with dynamic UI updates.',
-      features: [
-        'Third-party RESTful API integration',
-        'Complex JSON data parsing & display',
-        'Clean, intuitive, responsive interface',
-        'Efficient data rendering & state management',
-      ],
-      tags: ['Flutter', 'REST API', 'JSON', 'Responsive UI'],
-      tagClass: 'tag-cyan',
-      github: null,
       status: null,
     },
     {
