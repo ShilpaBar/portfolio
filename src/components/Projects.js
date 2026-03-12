@@ -8,7 +8,6 @@ export default function Projects() {
       features: [
         'Clean architecture with robust state management',
         'RESTful APIs + Firebase Auth & Cloud Firestore',
-        'Platform-specific configurations (iOS & Web)',
         'Agile sprints with Git branching & feature tracking',
       ],
       tags: ['Flutter', 'Dart', 'Firebase', 'REST API', 'Clean Architecture'],

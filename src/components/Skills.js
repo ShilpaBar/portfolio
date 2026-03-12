@@ -10,7 +10,7 @@ export default function Skills() {
       icon: '📱',
       iconClass: 'purple',
       title: 'Mobile Development',
-      skills: ['Flutter', 'iOS (Info.plist)', 'Web Platform', 'Cross-Platform'],
+      skills: ['Flutter', 'Web Platform', 'Cross-Platform'],
     },
     {
       icon: '🔥',
